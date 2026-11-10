@@ -55,7 +55,7 @@ unsigned exe you built yourself - that is normal for PyInstaller programs ("More
   Failed/absent subjects count as grade point 0; withheld (`W`) results make the SGPA blank.
 * Tests (no Chrome needed): `python tests/test_pipeline.py`, `python tests/test_scrape_flow.py`.
 
-* <img width="1202" height="832" alt="image" src="https://github.com/user-attachments/assets/7365e098-d351-4e65-912f-54232ba28c96" />
+<img width="1202" height="832" alt="image" src="https://github.com/user-attachments/assets/7365e098-d351-4e65-912f-54232ba28c96" />
 
 <img width="1481" height="832" alt="image" src="https://github.com/user-attachments/assets/5781c90e-6a53-470a-a4bb-4e1946c89b16" />
 
